@@ -8,7 +8,7 @@
   <p align="center">
     Experience the fun in learning
     <br />
-    <a href="">Link to Demo</a><br />
+    <a href="https://youtu.be/DqjB96w90mc">Link to Demo</a><br />
   </p>
 </p>
 
@@ -117,6 +117,7 @@ Download Microsoft Visual Studio (https://visualstudio.microsoft.com)
 #### Install Directly on Android Device:
 
 1. Download the APK file: 
-       
+https://drive.google.com/file/d/1CgNF7xLkiybX6URRnedTXUBh7BsSY7WY/view?usp=sharing    
+
 2. Install the app on your mobile phone.
 
